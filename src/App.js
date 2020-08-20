@@ -9,7 +9,7 @@ function App() {
     <main>
       <h1>Create React App + Go API</h1>
       <h2>
-        Andy Watts
+        Andy Watts Codes
       </h2>
       <p>
         <a
